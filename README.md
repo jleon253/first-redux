@@ -2,7 +2,7 @@
 
 This small app allows you creating a to-do list, adding and remove these tasks, using a Redux pattern.
 
-**Demo:**
+**Demo:** https://jleon253.github.io/first-redux/
 
 ### Dev tools used:
 > - HTML, Bootstrap 4
